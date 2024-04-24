@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-   am Zeynep Passionate Cyber Security Researcher and Tester / Penetration Tester . I am a core team member at GDSC, studying at Istinye University, also developing games and web.</b> 
+  I am Zeynep Passionate Cyber Security Researcher and Tester / Penetration Tester . I am a core team member at GDSC, studying at Istinye University, also developing games and web.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>

@@ -15,15 +15,12 @@
       />
   </picture>
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=0xenesZ&label=Profile%20Visits&style=for-the-badge" />
-  <br>
-  <a href="https://t.me/itadakimasu31">
-    <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
-  </a>
+
+ 
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zeynep </h1>
 <p align="center">
-  <a href="https://github.com/zeynepalkoc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Undergraduate;Game Developer;QA+/APİ+Tester;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/zeynepalkoc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;QA+/APİ+Tester;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>  
 I'm  Cyber Security Researcher and QA Tester / Penetration Tester based in Istanbul. Currently, I am a core team member at GDSC and pursuing my studies at Istinye University. Additionally, I'm involved in personal projects such as game and web development.
 In my role as a QA Tester, I focus on ensuring product quality and identifying security vulnerabilities. With my attention to detail and effective problem-solving skills, I strive to enhance the security and performance of products.

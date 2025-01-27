@@ -20,13 +20,10 @@
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zeynep </h1>
 <p align="center">
-  <a href="https://github.com/zeynepalkoc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;QA+/APİ+Tester;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/zeynepalkoc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;QA+/APİ+Tester;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>  
-I'm  Cyber Security Researcher and QA Tester / Penetration Tester based in Istanbul. Currently, I am a core team member at GDSC and pursuing my studies at Istinye University. Additionally, I'm involved in personal projects such as game and web development.
-In my role as a QA Tester, I focus on ensuring product quality and identifying security vulnerabilities. With my attention to detail and effective problem-solving skills, I strive to enhance the security and performance of products.
-Being part of the core team at GDSC allows me to conduct research in cybersecurity and explore emerging technologies. This opportunity enables me to continuously update and improve my knowledge and skills in the cybersecurity field.
-During my university education, I have developed an interest in data science and am actively working to enhance my expertise in this area. By participating in data science projects, I aim to gain experience in areas such as data analysis and machine learning.
-Throughout my career, I remain committed to my passion for technology and information security. I am open to collaboration opportunities and eager to contribute to new projects.   
+
+I'm a Game Developer and QA Tester based in Istanbul. Currently, I am a core team member at GDSC and pursuing my studies at Istinye University. Additionally, I'm involved in personal projects such as game and web development. In my role as a QA Tester, I focus on ensuring product quality and identifying technical issues to enhance the gaming experience. With my attention to detail and effective problem-solving skills, I strive to improve the performance and stability of games. Being part of the core team at GDSC allows me to explore emerging technologies and collaborate on innovative projects. This opportunity enables me to continuously update and improve my knowledge and skills in the game development field. During my university education, I have developed an interest in data science and am actively working to enhance my expertise in this area. By participating in data science projects, I aim to gain experience in areas such as data analysis and machine learning. Throughout my career, I remain committed to my passion for game development and technology. I am open to collaboration opportunities and eager to contribute to new projects.
   <br><br/> 
 <a href="https://github.com/zeynepalkoc" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

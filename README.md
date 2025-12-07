@@ -45,84 +45,66 @@ I’m always open to collaboration, learning new technologies, and contributing 
 ## Skils  
 <div align="center">
 
-<h3 align="left">🚀 Languages & Tools</h3>
+<h3 align="left">Languages &amp; Tools</h3>
 
-<!-- 🟦 Front-End Development -->
-<h4 align="left">✨ Front-End Development</h4>
+<h4 align="left">Front-End Development</h4>
 <p align="left">
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-  <a href="https://html.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-  <a href="https://css3.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" width="40"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" />
 </p>
 
-<br/>
-
-<!-- ☁️ Cloud Platforms -->
-<h4 align="left">☁️ Cloud Platforms</h4>
+<h4 align="left">Artificial Intelligence &amp; Machine Learning</h4>
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<br/>
 
-<!-- 🔐 Cyber Security -->
-<h4 align="left">🔐 Cyber Security</h4>
+<h4 align="left">Cloud Platforms</h4>
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank"><img src="https://www.kali.org/images/kali-logo.svg" width="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://portswigger.net/content/images/logos/burp-suite.svg" width="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/metasploit.png" width="40"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40"/></a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-<br/>
 
-<!-- 🤖 AI / ML -->
-<h4 align="left">🤖 Artificial Intelligence & Machine Learning</h4>
+<h4 align="left">Cyber Security</h4>
 <p align="left">
-  <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<br/>
-
-<!-- 📱 Mobile Development -->
-<h4 align="left">📱 Mobile Development</h4>
+<h4 align="left">Mobile Development</h4>
 <p align="left">
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" />
 </p>
 
-<br/>
-
-<!-- 🎮 Game Development -->
-<h4 align="left">🎮 Game Development</h4>
+<h4 align="left">Game Development</h4>
 <p align="left">
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40"/></a>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff" />
 </p>
 
-<br/>
-
-<!-- 🛠 Other Tools -->
-<h4 align="left">🛠 Other Tools</h4>
+<h4 align="left">Other Tools</h4>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
 </p>
-
 </div>
 
 

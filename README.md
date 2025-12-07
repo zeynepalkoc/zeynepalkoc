@@ -47,25 +47,55 @@ I’m always open to collaboration, learning new technologies, and contributing 
 
 <h3 align="left">🚀 Languages & Tools</h3>
 
-<!-- 🟦 Front-End -->
+<!-- 🟦 Front-End Development -->
 <h4 align="left">✨ Front-End Development</h4>
 <p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
   <a href="https://html.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
   <a href="https://css3.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" width="40"/></a>
 </p>
 
+<br/>
+
+<!-- ☁️ Cloud Platforms -->
+<h4 align="left">☁️ Cloud Platforms</h4>
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+</p>
+
+<br/>
+
+<!-- 🔐 Cyber Security -->
+<h4 align="left">🔐 Cyber Security</h4>
+<p align="left">
+  <a href="https://www.kali.org/" target="_blank"><img src="https://www.kali.org/images/kali-logo.svg" width="40"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://portswigger.net/content/images/logos/burp-suite.svg" width="40"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="40"/></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/metasploit.png" width="40"/></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40"/></a>
+</p>
+
+<br/>
+
 <!-- 🤖 AI / ML -->
-<h4 align="left">🤖 AI / Machine Learning</h4>
+<h4 align="left">🤖 Artificial Intelligence & Machine Learning</h4>
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
 </p>
+
+<br/>
 
 <!-- 📱 Mobile Development -->
 <h4 align="left">📱 Mobile Development</h4>
@@ -74,6 +104,8 @@ I’m always open to collaboration, learning new technologies, and contributing 
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
 </p>
 
+<br/>
+
 <!-- 🎮 Game Development -->
 <h4 align="left">🎮 Game Development</h4>
 <p align="left">
@@ -81,13 +113,16 @@ I’m always open to collaboration, learning new technologies, and contributing 
   <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40"/></a>
 </p>
 
+<br/>
+
 <!-- 🛠 Other Tools -->
 <h4 align="left">🛠 Other Tools</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
 
 </div>
+
 

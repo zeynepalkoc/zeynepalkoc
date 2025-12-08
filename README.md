@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/zeynepalkoc/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;QA+/API+Tester;Aspiring+Learner&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Generative+AI;Cloud+AI&center=true&width=500&height=50">
   </a>
 </p>
 
